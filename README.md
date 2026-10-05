@@ -1,2 +1,2 @@
 # BrightLearn_Exercise_2
-SQL Aggregate and Operators
+SQL Aggregate And Operators
